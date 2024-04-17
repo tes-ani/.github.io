@@ -1,6 +1,7 @@
 # Tesia Mancosky 
 ESIIL Stars Profile
 
+![tesia on the mountain](/img/profilephoto.jpg "Tesia sitting on South table mtn")
 <html>
 <body>
 
