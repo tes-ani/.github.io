@@ -1,9 +1,5 @@
-Tesia Mancosky
+## Tesia Mancosky 
 ESIIL Stars Profile
-
-
-</head>
-<body>
 
 <html>
 <body>
