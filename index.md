@@ -1,8 +1,10 @@
 # Tesia Mancosky 
 
 ### <center> ESIIL Stars Profile </center>
-
-![tesia on the mountain](/img/updatedsmallprofpic.jpg "Tesia sitting on South Table Mountain in Golden, CO")
+<img
+src="img/profilephoto.jpg"
+alt="Tesia sitting on South Table Mountain in Golden, CO"
+width="40%">
 
 ## Education and Professional Background
 
