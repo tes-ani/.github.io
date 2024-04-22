@@ -1,6 +1,8 @@
 # Tesia Mancosky 
 
 ### <center> ESIIL Stars Profile </center>
+I am a <a href="[https://esiil.org/esiil-stars]" target="_blank">2024 ESIIL Stars</a> intern!
+
 <img
 src="img/profilephoto.jpg"
 alt="Tesia sitting on South Table Mountain in Golden, CO"
@@ -10,7 +12,12 @@ width="40%">
 
 <p class="p2">I am currently a senior in the Applied Geology program at Metropolitan State University of Denver. Before starting this program, I attended Boston College and received a B.A. in International Studies with a regional focus on Latin America and indigenous Latin American politics. I spent some time in Ecuador and Nicaragua working in refugee resettlement and service provision before moving to Washington, DC in 2015. Though I moved there with every intention of pursuing policy work, I fell in love with the service industry and spent five years working in some of the best restaurants and bars in the city. The onset of the COVID 19 pandemic reshaped my life in profound ways, namely in my relocation back to my hometown of Denver, CO in 2020. I started coursework in geology and environmental science at MSU after several revelatory experiences in the canyons and river valleys of the Western Slope of Colorado. </p>
 
-## A little more about me
+## Research and Academic Pursuits
+### Ongoing
+I am interested in the intersection of geology, biology, and hydrology, and am currently pursuing undergraduate research on the hydrogeochemistry of mineral springs in Colorado.
+### Previous Work
+
+## About Me
 
 <p class="p2"> When I am not dedicating all of my energy to my school work, I occupy my time bartending, cycling, climbing in Clear Creek Canyon, cooking elaborate meals for friends, and reading at home. Though I have not had an opportunity to travel much the last few years, I relish the opportunity to spend any time in Central and South America. I hope that my professional ventures will allow me to work and live there again someday!</p>
 
