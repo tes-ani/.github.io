@@ -1,8 +1,6 @@
 theme:
 title: Tesia's ESIIL Stars Profile
-name: 
-logo: <img
-src="img/profilephoto.jpg"
-alt="Tesia sitting on South Table Mountain in Golden, CO">
+name: Tesia Mancosky
+logo: 
 
 remote_theme: pages-themes/minimal@v0.2.0
