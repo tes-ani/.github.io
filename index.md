@@ -1,7 +1,7 @@
 # <center>Tesia Mancosky </center>
 
 ### <center> ESIIL Stars Profile </center>
-I am a <a href="[https://esiil.org/esiil-stars]" target="_blank">2024 ESIIL Stars</a> intern!
+I am a <a href="[https://esiil.org/esiil-stars]" target="_blank"> **2024 ESIIL Stars** intern. 
 
 <center><img
 src="img/profilephoto.jpg"
