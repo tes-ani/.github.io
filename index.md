@@ -6,7 +6,7 @@ I am a <a href="[https://esiil.org/esiil-stars]" target="_blank">2024 ESIIL Star
 <center><img
 src="img/profilephoto.jpg"
 alt="Tesia sitting on South Table Mountain in Golden, CO"
-width="80%"></center>
+width="60%"></center>
 
 ## <center>Education and Professional Background</center>
 
