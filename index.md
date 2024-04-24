@@ -3,10 +3,10 @@
 ### <center> ESIIL Stars Profile </center>
 I am a <a href="[https://esiil.org/esiil-stars]" target="_blank">2024 ESIIL Stars</a> intern!
 
-<img
+<center><img
 src="img/profilephoto.jpg"
 alt="Tesia sitting on South Table Mountain in Golden, CO"
-width="60%">
+width="80%"></center>
 
 ## <center>Education and Professional Background</center>
 
