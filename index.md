@@ -28,5 +28,5 @@ As an undergraduate student at Boston College, my thesis research was centered o
 
   * <a href="mailto: tmancosk@msudenver.edu" target="_blank">**Email**
   * <a href="https://tes-ani.github.io/" target="_blank">**Website**
-  * <a href="https://www.instagram.com/tesiaaniela/" target="_blank">**Instagram**
+ 
 
